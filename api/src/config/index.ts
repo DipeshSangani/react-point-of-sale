@@ -11,7 +11,7 @@ const devConfig: config = {
 };
 
 const prodConfig: config = {
-  jwtSecret: process.env.JWT_SECRET,
+  jwtSecret: 'Ne!lC^fferry_wc0!!ar',
   tokenExpiry: '24h',
   refreshTokenExpiry: '24h'
 };
